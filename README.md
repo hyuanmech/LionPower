@@ -1,7 +1,7 @@
 # LionPower
 Electrochemical-thermal model
 
-The model applies conservative numerical schemes to discretise non-linear, coupled PDEs and solves the discretised equations using both Jacobian based and Jacobian free methods. 
+The model applies conservative numerical schemes to discretise non-linear, coupled PDEs and solves the discretised equations using both Jacobian based and Jacobian free Newton-Krylov methods. 
 
 The model can be tested by running 'LionPower.m' in Matlab.
 
